@@ -1,0 +1,13 @@
+name: SoPHandler
+author: AtomicKill7
+version: 1.0
+main: so.p.handler.Core
+
+commands:
+  sophandler:
+    description: ''
+
+permissions:
+  sophandler.op4:
+    default: op
+
